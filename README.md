@@ -4,3 +4,4 @@ a card game of my
 1.Greed(贪婪)
 2.正负相抵
 3.自定义道具属性
+4.3D切换效果
